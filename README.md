@@ -13,7 +13,7 @@ sizi 📲 **Telegram’dan bildirir** veya isterseniz 🤖 **otomatik randevu al
 ## ✨ Özellikler
 
 - 🔐 **Token ile giriş**
-- 🪪 **TC / Şifre ile giriş** (token düşerse 🔁 **401’de otomatik yenileme**)
+- 💳 **TC / Şifre ile giriş** (token düşerse 🔁 **401’de otomatik yenileme**)
 - 📢 Boş randevu bulunca Telegram bildirimi
 - 🤖 İsteğe bağlı **otomatik randevu alma**
 - 📅 Tarih aralığı seçebilme
@@ -102,7 +102,7 @@ Bot **iki giriş yöntemini** destekler:
 
 ---
 
-### 🪪 2) TC / Şifre ile giriş (⭐ önerilen)
+### 💳 2) TC / Şifre ile giriş (⭐ önerilen)
 
 - Bot MHRS’ye senin adına giriş yapar
 - Token düşerse **401 hatasında otomatik yeniler**
