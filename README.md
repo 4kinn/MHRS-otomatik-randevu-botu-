@@ -186,6 +186,7 @@ pip install --force-reinstall httpx==0.27.0
 
 **Akın**  
 💻 GitHub: https://github.com/4kinn  
+🌐 Linkedin : https://www.linkedin.com/in/akin-islek/
 
 ---
 
